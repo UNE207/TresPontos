@@ -1,0 +1,12 @@
+{
+    "name":{"message":"The Three Dots"},
+    "title":{"message":"The Three Dots"},
+    "description":{"message":"The App is designed to aid the insertion of (\u2234) in texts typed in the browser. Click Options for more details or to donate."},
+    "longDesc":{"message":""},
+    "longDesc1":{"message":"This extension has been developed especially for the Freemason public from Brazil and Latin America, once we have the habit of using the Masonic abbreviations with the three points and because of the difficulty of properly inserting the points to form an equilateral triangle. What ever see are coarse replacements like"},
+    "longDesc2":{"message":"but they does't represent the \u0394"},
+    "longDesc3":{"message":"Its use is very simple, just click on its icon near the address bar, and the \u2234; will be available from the menu \u0022Paste\u0022 or shortcut"},
+    "longDesc4":{"message":"I intend to further implement the extension including new features, for now that's all we have."},
+    "longDesc5":{"message":"So the Dear Brothers it's use is free, however those who wish to contribute to the development of this and other future applications thank you for your thanks for your valuable contributions."},
+    "longDesc6":{"message":"Your Brorther"}
+    }

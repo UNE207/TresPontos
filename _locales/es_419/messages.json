@@ -1,0 +1,12 @@
+{
+    "name":{"message":"Los Tres Puntos"},
+    "title":{"message":"Los Tres Puntos"},
+    "description":{"message":"La aplicaci\u00f3n est\u00e1 dise\u00f1ada para facilitar la inserci\u00f3n (\u2234) en los textos escritos en el navegador. Haga clic en Opciones para obtener m\u00e1s detalles o para donar."},
+    "longDesc1":{"message":"Esta extensi\u00F3n ha sido desarrollada especialmente para el p\u00FAblico  mas\u00F3nico de Am\u00E9rica Latina, dada nuestra costumbre de utilizar las abreviaturas mas\u00F3nicas con los tres puntos y por la dificultad de insertar adecuadamente los puntos para formar un tri\u00E1ngulo equil\u00E1tero. Lo que alguna vez ver son reemplazos equivocados tales como"},
+    "longDesc2":{"message":"sin embargo ellos no representan el \u0394"},
+    "longDesc3":{"message":"Su uso es muy sencillo, basta hacer clic en el icono al lado de la barra de direcciones y \u2234 estar\u00E1 disponible en el men\u00FA \"Pegar\" o usar el atajo"},
+    "longDesc4":{"message":"Tengo la intenci\u00F3n de seguir aplicando la extensi\u00F3n incluyendo nuevas posibilidades, pero por ahora es lo que tenemos."},
+    "longDesc5":{"message":"As\u00ED los queridos hermanos no duden en usarlo sin costo libre, sin embargo aquellos que desean contribuir al desarrollo de esta y otras futuras aplicaciones con el fin de cumplir con este selecto grupo. Gracias por sus valiosos aportes"},
+    "longDesc6":{"message":"Fraternalmente"}
+   
+    }
