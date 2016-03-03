@@ -1,5 +1,5 @@
 
-// Carrega as mensagens conforme idioma do navegador para a página de opções
+// Load messages by language settingis to te options page
 // Author: Rodrigo Silva
 
 function localizeHtmlPage()
