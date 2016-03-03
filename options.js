@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 // Carrega as mensagens conforme idioma do navegador para a pï¿½gina de opï¿½ï¿½es
 // Author: Rodrigo Silva
+=======
+// Carrega as mensagens conforme idioma do navegador para a página de opções
+// Rodrigo Silva
+>>>>>>> origin/master
 function localizeHtmlPage()
 {
     //Localize by replacing __MSG_***__ meta tags
