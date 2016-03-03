@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>__MSG_name__</title> <!-- O texto será substituido conforme o idioma, a mensagem é carregada via javascript-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            * {font-family: arial}
+            div {width: 600px; text-align: justify ;margin: auto}
+            h1 {font-family: Arial; text-align: center; font-size: 42px; vertical-align: bottom ;height: 150px}
+            h4 {font-family: Arial; text-align: center; font-size: 20px; vertical-align: bottom ;height: 60px}
+            #icon {float: left}
+            #cab {clear: left}
+            form{alignment-adjust: central; text-align: center}
+            p{font-size: large}
+        </style>
+    </head>
+    <body>
+        <div>
+            <img src="icons/icon128.png" id="icon">
+            <h1> __MSG_name__ (&therefore;) </h1>
+        </div>
+        <div id="cab"></div>
+        <div>
+            <p>__MSG_longDesc1__ <b>(:. .'. .:. .`. .°. \)</b> __MSG_longDesc2__.</p>
+            <p>__MSG_longDesc3__ <b>Ctrl</b> +<b> V</b>.</p>
+            <p>__MSG_longDesc4__.</p>
+            <p>__MSG_longDesc5__</p>
+            <p> __MSG_longDesc6__,</p>
+            <h4>Rodrigo de Souza Silva&Therefore;</h4>
+            <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+<input type="hidden" name="currency" value="BRL" />
+<input type="hidden" name="receiverEmail" value="rodrigo.m979@gmail.com" />
+<input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar-azul.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+            
+        </div>
+        <script src="options.js"></script>
+    </body>
+    
+</html>
